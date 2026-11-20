@@ -1,3 +1,4 @@
+# IDE/AI folders
 .opencode/
 .opencode
 .openidea/
@@ -5,3 +6,8 @@
 .codex/
 .vscode/
 .zed/
+# Go build output
+*.exe
+/wallet
+*.test
+*.out
